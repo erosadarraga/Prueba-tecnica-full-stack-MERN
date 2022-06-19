@@ -1,7 +1,9 @@
 #  Explicacion de prueba tecnica FULL STACK WEB
 ## _Demo de aplicacion ya configurada en la web_
 - Backend: https://marvelauthapi.onrender.com/
+- Repositorio Backend:https://github.com/erosadarraga/backend-Servidor-Auth-Api-Marvel
 - Frontend: https://frontend-prueba-api-marvel-9n60in49s-erosdesing.vercel.app/
+- Repositorio Frontend:https://github.com/erosadarraga/frontend-prueba-api-marvel
 - Mi portafolio: https://erosdev.co/
 - Stack utilizado : React, Node, MongoDB, Express
 ## Nota a tener en cuenta en la demo 
